@@ -82,7 +82,7 @@ classDiagram
 
 ```bash
 # Clone the repository
-git clone https://github.com/autocoder/autocoder.git
+git clone https://github.com/vollocare/autocoder.git
 cd autocoder
 
 # Install the package
