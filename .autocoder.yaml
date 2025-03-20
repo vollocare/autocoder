@@ -1,0 +1,11 @@
+model:
+  api_endpoint: "http://localhost:11434/v1"
+  temperature: 0.6
+  top_p: 0.9
+  max_tokens: 8192
+  quantize: "none"
+  system_prompt: "You are an expert Python developer tasked with generating high-quality, maintainable code based on detailed specifications."
+
+max_test_iterations: 3
+verbose: true
+colors_enabled: true 
